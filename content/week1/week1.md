@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Week 1 Content
+title: Week 1
 nav_order: 3
 has_children: true
 permalink: /content/week1
