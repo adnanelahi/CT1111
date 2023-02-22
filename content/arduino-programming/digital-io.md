@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Digital Inputs/Outputs
-nav_order: 1
+nav_order: 2
 parent: Arduino Programming
 permalink: /content/digital-inputs-outputs
 ---
