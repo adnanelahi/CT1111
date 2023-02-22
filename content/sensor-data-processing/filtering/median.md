@@ -6,7 +6,7 @@ grand_parent: Sensor Data Processing
 parent: Filtering
 has_children: true
 permalink: /content/sensor-data-procesing/median-filter
-
+---
 # Introduction to Arduino
 {: .no_toc }
 
