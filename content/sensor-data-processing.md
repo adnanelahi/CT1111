@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Introduction to Arduino
+title: Sensor Data Processing
 nav_order: 1
 has_children: true
-permalink: /content/introduction-to-arduino
+permalink: /content/sensor-data-procesing
 ---
 # Introduction to Arduino
 {: .no_toc }

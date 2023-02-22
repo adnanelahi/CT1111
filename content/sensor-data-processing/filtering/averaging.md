@@ -1,10 +1,12 @@
 ---
 layout: default
-title: Introduction to Arduino
+title: Averaging
 nav_order: 1
+grand_parent: Sensor Data Processing
+parent: Filtering
 has_children: true
-permalink: /content/introduction-to-arduino
----
+permalink: /content/sensor-data-procesing/averaging-filter
+
 # Introduction to Arduino
 {: .no_toc }
 

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Introduction to Arduino
+title: Sensor Calibration
 nav_order: 1
-has_children: true
-permalink: /content/introduction-to-arduino
+parent: Sensor Data Processing
+permalink: /content/sensor-data-procesing/calibration
 ---
 # Introduction to Arduino
 {: .no_toc }
