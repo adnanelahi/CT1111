@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Filtering
-nav_order: 1
+nav_order: 2
 parent: Sensor Data Processing
 has_children: true
 permalink: /content/sensor-data-procesing/filtering
