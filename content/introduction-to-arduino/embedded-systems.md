@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Arduino Programming
-nav_order: 2
-has_children: true
-permalink: /content/arduino-programming
+title: Embedded Systems
+nav_order: 1
+parent: Introduction to Arduino
+permalink: /content/arduino-nano
 ---
 
 # Arduino Programming

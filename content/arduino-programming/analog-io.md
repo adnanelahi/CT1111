@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Arduino Programming
+title: Analog Inputs/Outputs
 nav_order: 2
 has_children: true
-permalink: /content/arduino-programming
+permalink: /content/analog-inputs-outputs
 ---
 
 # Arduino Programming

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Arduino Programming
-nav_order: 2
-has_children: true
-permalink: /content/arduino-programming
+title: Digital Inputs/Outputs
+nav_order: 1
+parent: Arduino Programming
+permalink: /content/digital-inputs-outputs
 ---
 
 # Arduino Programming

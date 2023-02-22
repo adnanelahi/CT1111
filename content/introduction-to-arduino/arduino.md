@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Introduction to Arduino
-nav_order: 3
-has_children: true
-permalink: /content/introduction-to-arduino
+title: The Arduino
+nav_order: 2
+parent: Introduction to Arduino
+permalink: /content/arduino-nano
 ---
 
 # Arduino Programming
