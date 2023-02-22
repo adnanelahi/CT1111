@@ -2,7 +2,7 @@
 layout: default
 title: Arduino Libraries
 nav_order: 1
-parent: Arduino Libraries
+parent: Arduino Programming
 permalink: /content/arduino-libraries
 ---
 
