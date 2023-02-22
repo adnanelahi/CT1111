@@ -5,6 +5,7 @@ nav_order: 1
 description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 permalink: /
 ---
+# Arduino Programming
 This website contains learning materials for Arduino Programming component of CT1111 Engineering Computing module taught to 1st year engineering students at University of Galway.
 
 ----
