@@ -2,7 +2,7 @@
 layout: default
 title: Analog Inputs/Outputs
 nav_order: 2
-has_children: true
+parent: Arduino Programming
 permalink: /content/analog-inputs-outputs
 ---
 
