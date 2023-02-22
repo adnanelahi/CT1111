@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Week 1
+title: Introduction to Arduino
 nav_order: 3
 has_children: true
-permalink: /content/week1
+permalink: /content/introduction-to-arduino
 ---
 
 # Arduino Programming

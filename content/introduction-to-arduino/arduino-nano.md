@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Arduino Nano
+title: Embedded Systems
 nav_order: 3
-parent: Week 1
+parent: Introduction to Arduino
 permalink: /content/arduino-nano
 ---
 
